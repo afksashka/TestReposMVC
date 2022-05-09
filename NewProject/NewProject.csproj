@@ -16,11 +16,10 @@
   <ItemGroup>
     <Folder Include="Areas\Admin\Controllers\" />
     <Folder Include="Areas\Admin\Views\" />
+    <Folder Include="Domain\Entities\" />
     <Folder Include="Models\ViewComponents\" />
     <Folder Include="wwwroot\images\" />
     <Folder Include="wwwroot\sass\" />
-    <Folder Include="Domain\" />
-    <Folder Include="Service\" />
   </ItemGroup>
 
   <ItemGroup>
