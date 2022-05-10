@@ -20,6 +20,8 @@ namespace NewProject.Domain.Entities
 
         [Display(Name = "Полное описание")]
         public virtual string Text { get; set; }
+        [Display(Name = "Титульная картинка")]
+        public virtual string TitleImagePath { get; set; }
 
         [Display(Name = "SEO мететаег Title")]
         public virtual string MetaTitle { get; set; }
